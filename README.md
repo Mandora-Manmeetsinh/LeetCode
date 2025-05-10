@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0031-next-permutation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -88,6 +89,7 @@
 | [0018-4sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
