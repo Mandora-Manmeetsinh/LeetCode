@@ -86,6 +86,7 @@
 | [0022-generate-parentheses](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Binary Search
 |  |
@@ -110,6 +111,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 ## Dynamic Programming
 |  |
