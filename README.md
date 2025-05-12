@@ -77,6 +77,7 @@
 | [0020-valid-parentheses](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0038-count-and-say) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Stack
 |  |
 | ------- |
