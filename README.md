@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Stack
 |  |
