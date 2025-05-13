@@ -45,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0326-power-of-three](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0043-multiply-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Trie
 |  |
 | ------- |
@@ -177,4 +181,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0043-multiply-strings) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
