@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
@@ -224,6 +226,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0566-reshape-the-matrix) |
