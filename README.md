@@ -38,6 +38,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3321-type-of-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0135-candy](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0135-candy) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0075-sort-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,10 +195,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3639-zero-array-transformation-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3647-zero-array-transformation-iii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
