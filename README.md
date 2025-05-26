@@ -67,6 +67,7 @@
 | [0013-roman-to-integer](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -167,6 +168,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -225,6 +227,7 @@
 | [0070-climbing-stairs](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -263,4 +267,12 @@
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
