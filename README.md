@@ -88,6 +88,7 @@
 | [0012-integer-to-roman](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0089-gray-code) |
 | [0326-power-of-three](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0326-power-of-three) |
@@ -103,6 +104,7 @@
 | [0002-add-two-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
