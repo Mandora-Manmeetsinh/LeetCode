@@ -92,6 +92,7 @@
 | [0070-climbing-stairs](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0089-gray-code) |
 | [0326-power-of-three](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -137,6 +138,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
