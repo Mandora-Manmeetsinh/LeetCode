@@ -28,6 +28,7 @@
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -262,6 +263,7 @@
 | [0777-toeplitz-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
@@ -294,6 +296,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
