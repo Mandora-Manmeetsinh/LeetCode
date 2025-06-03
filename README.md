@@ -70,6 +70,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -83,6 +84,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -173,6 +175,7 @@
 | [0075-sort-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
