@@ -146,6 +146,7 @@
 | [3194-find-words-containing-character](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Memoization
 |  |
 | ------- |
