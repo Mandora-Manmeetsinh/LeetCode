@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -328,4 +329,12 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
