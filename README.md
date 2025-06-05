@@ -141,6 +141,7 @@
 | [0043-multiply-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -323,4 +324,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
