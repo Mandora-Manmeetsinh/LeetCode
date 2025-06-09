@@ -27,6 +27,7 @@
 | [0777-toeplitz-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -51,6 +52,7 @@
 | [0011-container-with-most-water](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0135-candy) |
 | [0649-dota2-senate](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0649-dota2-senate) |
+| [0890-lemonade-change](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0890-lemonade-change) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
