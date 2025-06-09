@@ -34,6 +34,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -112,6 +113,7 @@
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3321-type-of-triangle) |
@@ -128,6 +130,7 @@
 | [0206-reverse-linked-list](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -278,6 +281,7 @@
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -353,6 +357,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
