@@ -1,4 +1,5 @@
 from collections import deque
+from collections import Counter
 
 class Solution:
     def countStudents(self, students , sandwiches) :
