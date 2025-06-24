@@ -41,6 +41,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -219,6 +220,7 @@
 | [0344-reverse-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0344-reverse-string) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
