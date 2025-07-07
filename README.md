@@ -35,6 +35,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1651-shuffle-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1651-shuffle-string) |
@@ -65,6 +66,7 @@
 | [0135-candy](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0135-candy) |
 | [0649-dota2-senate](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0890-lemonade-change) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -278,6 +280,7 @@
 | [0018-4sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -316,6 +319,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3647-zero-array-transformation-iii) |
