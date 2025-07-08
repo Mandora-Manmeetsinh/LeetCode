@@ -41,6 +41,7 @@
 | [1651-shuffle-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -218,6 +219,7 @@
 | [0367-valid-perfect-square](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Divide and Conquer
 |  |
@@ -257,6 +259,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -282,6 +285,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
