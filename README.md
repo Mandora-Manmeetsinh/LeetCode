@@ -32,6 +32,7 @@
 | [0898-transpose-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -198,6 +199,7 @@
 | [0649-dota2-senate](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0649-dota2-senate) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1651-shuffle-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1651-shuffle-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -286,6 +288,7 @@
 | [0014-longest-common-prefix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Sorting
 |  |
 | ------- |
@@ -439,6 +442,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
