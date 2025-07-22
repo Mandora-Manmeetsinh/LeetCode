@@ -42,6 +42,7 @@
 | [1651-shuffle-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1813-maximum-erasure-value](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -94,6 +95,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1813-maximum-erasure-value](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
@@ -108,6 +110,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
