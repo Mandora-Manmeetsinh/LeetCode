@@ -52,6 +52,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -414,6 +415,7 @@
 | [0029-divide-two-integers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0089-gray-code) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
@@ -424,6 +426,7 @@
 | [0101-symmetric-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -447,6 +450,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
