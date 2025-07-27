@@ -51,6 +51,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
