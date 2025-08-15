@@ -166,6 +166,7 @@
 | [0089-gray-code](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0826-soup-servings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -195,6 +196,7 @@
 | [0206-reverse-linked-list](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -442,6 +444,7 @@
 | [0029-divide-two-integers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
