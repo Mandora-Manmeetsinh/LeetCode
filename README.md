@@ -25,6 +25,7 @@
 | [0566-reshape-the-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0679-24-game) |
 | [0777-toeplitz-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
@@ -169,6 +170,7 @@
 | [0326-power-of-three](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0679-24-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
@@ -346,6 +348,7 @@
 | [0022-generate-parentheses](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0089-gray-code) |
+| [0679-24-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0679-24-game) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Stack
