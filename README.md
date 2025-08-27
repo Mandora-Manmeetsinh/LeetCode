@@ -70,6 +70,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -314,6 +315,7 @@
 | [3618-find-the-original-typed-string-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Trie
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
 |  |
 | ------- |
@@ -443,6 +446,7 @@
 | [0945-snakes-and-ladders](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bit Manipulation
 |  |
 | ------- |
