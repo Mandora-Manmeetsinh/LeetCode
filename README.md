@@ -184,6 +184,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
