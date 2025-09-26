@@ -1,31 +1,38 @@
 class Solution:
     def shortestCommonSupersequence(self, str1: str, str2: str) -> str:
-        m, n = len(str1), len(str2)
-    
-        # Step 1: Compute LCS DP table
-        dp = [[0] * (n + 1) for _ in range(m + 1)]
-        for i in range(1, m + 1):
-            for j in range(1, n + 1):
-                if str1[i - 1] == str2[j - 1]:
-                    dp[i][j] = dp[i - 1][j - 1] + 1
-                else:
-                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
-                    
-        # Step 2: Backtrack to construct SCS
-        i, j = m, n
+        n, m = len(str1), len(str2)
+        dp = [[0] * (m + 1) for _ in range(n + 1)]
+
+        def lcs(s1, s2):
+            for i in range(1, n + 1):
+                for j in range(1, m + 1):
+                    if s1[i - 1] == s2[j - 1]:
+                        dp[i][j] = 1 + dp[i - 1][j - 1]
+                    else:
+                        dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+            return dp[n][m]
+
+        lcs(str1, str2)
+
         scs = []
-    
-        while i > 0 or j > 0:
-            if i > 0 and j > 0 and str1[i - 1] == str2[j - 1]:  # LCS character
+        i, j = n, m
+        while i > 0 and j > 0:
+            if str1[i - 1] == str2[j - 1]:
                 scs.append(str1[i - 1])
                 i -= 1
                 j -= 1
-            elif i > 0 and (j == 0 or dp[i - 1][j] >= dp[i][j - 1]):  # Prioritize `str1`
+            elif dp[i - 1][j] > dp[i][j - 1]:
                 scs.append(str1[i - 1])
                 i -= 1
-            else:  # Otherwise, take from `str2`
+            else:
                 scs.append(str2[j - 1])
                 j -= 1
-    
-        scs.reverse()
-        return "".join(scs)
+
+        while i > 0:
+            scs.append(str1[i - 1])
+            i -= 1
+        while j > 0:
+            scs.append(str2[j - 1])
+            j -= 1
+
+        return ''.join(reversed(scs))
