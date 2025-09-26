@@ -258,6 +258,7 @@
 | [0165-compare-version-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0649-dota2-senate) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -345,6 +346,7 @@
 | [0120-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0826-soup-servings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
