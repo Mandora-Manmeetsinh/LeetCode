@@ -266,6 +266,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1651-shuffle-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1651-shuffle-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -352,6 +353,7 @@
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
