@@ -32,6 +32,7 @@
 | [0679-24-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0679-24-game) |
 | [0777-toeplitz-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0830-largest-triangle-area](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0898-transpose-matrix) |
@@ -201,6 +202,7 @@
 | [0367-valid-perfect-square](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0679-24-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -638,6 +640,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Number Theory
 |  |
