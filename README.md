@@ -39,6 +39,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1018-largest-perimeter-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1293-three-consecutive-odds](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -98,6 +99,7 @@
 | [0611-valid-triangle-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -205,6 +207,7 @@
 | [0830-largest-triangle-area](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -393,6 +396,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
