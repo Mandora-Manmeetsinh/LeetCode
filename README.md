@@ -85,6 +85,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -169,6 +170,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -326,6 +328,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -357,6 +360,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
@@ -387,6 +391,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -423,6 +428,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
@@ -526,6 +532,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
