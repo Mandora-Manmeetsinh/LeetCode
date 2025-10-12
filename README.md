@@ -99,6 +99,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -398,6 +400,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
 |  |
 | ------- |
@@ -570,6 +573,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
 | ------- |
@@ -630,6 +634,7 @@
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Union Find
 |  |
 | ------- |
@@ -695,4 +700,8 @@
 | [2429-design-a-food-rating-system](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3827-implement-router) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
