@@ -238,6 +238,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
