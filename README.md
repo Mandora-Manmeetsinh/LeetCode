@@ -54,6 +54,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1651-shuffle-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -121,6 +122,7 @@
 | [1448-maximum-69-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -411,6 +413,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -479,6 +482,7 @@
 | [0020-valid-parentheses](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -748,4 +752,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
