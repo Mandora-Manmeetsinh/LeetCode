@@ -116,6 +116,7 @@
 | [3797-design-spreadsheet](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -535,6 +537,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -657,6 +660,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3863-power-grid-maintenance](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -680,6 +684,7 @@
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -695,6 +700,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -707,6 +713,7 @@
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3863-power-grid-maintenance](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
 | ------- |
@@ -769,6 +776,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
 | ------- |
