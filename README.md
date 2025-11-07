@@ -82,6 +82,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -138,6 +139,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -160,6 +162,7 @@
 | [0940-fruit-into-baskets](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -374,6 +377,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -511,6 +515,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -734,6 +739,7 @@
 | [0969-number-of-recent-calls](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
