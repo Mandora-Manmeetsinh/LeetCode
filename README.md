@@ -84,6 +84,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -529,6 +530,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -646,6 +648,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
