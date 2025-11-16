@@ -270,6 +270,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -344,6 +345,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1472-increasing-decreasing-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1472-increasing-decreasing-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
