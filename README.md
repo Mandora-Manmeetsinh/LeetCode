@@ -197,6 +197,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -350,6 +351,7 @@
 | [1651-shuffle-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -533,6 +535,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2625-increment-submatrices-by-one) |
@@ -667,6 +670,7 @@
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
