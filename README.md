@@ -44,6 +44,7 @@
 | [0940-fruit-into-baskets](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -675,6 +676,7 @@
 | [0342-power-of-four](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
