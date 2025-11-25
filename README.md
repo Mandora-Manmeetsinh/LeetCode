@@ -195,6 +195,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1472-increasing-decreasing-string](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -269,6 +270,7 @@
 | [0830-largest-triangle-area](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
