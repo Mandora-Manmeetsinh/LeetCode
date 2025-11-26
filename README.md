@@ -85,6 +85,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2625-increment-submatrices-by-one) |
@@ -469,6 +470,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -666,6 +668,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3797-design-spreadsheet) |
