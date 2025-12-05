@@ -104,6 +104,7 @@
 | [3321-type-of-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -309,6 +310,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -571,6 +573,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/3639-zero-array-transformation-i) |
