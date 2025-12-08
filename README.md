@@ -297,6 +297,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -614,6 +615,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
