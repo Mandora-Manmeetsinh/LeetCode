@@ -361,6 +361,7 @@
 | [0022-generate-parentheses](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0165-compare-version-numbers) |
