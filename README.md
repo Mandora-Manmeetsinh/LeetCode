@@ -18,6 +18,7 @@
 | [0040-combination-sum-ii](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -282,6 +283,7 @@
 | [0029-divide-two-integers](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Mandora-Manmeetsinh/LeetCode/tree/master/0089-gray-code) |
